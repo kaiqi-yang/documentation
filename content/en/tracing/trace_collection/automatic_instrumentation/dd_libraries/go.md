@@ -29,7 +29,7 @@ The Go Tracer requires Go `1.18+` and Datadog Agent `>= 5.21.1`. For a full list
 
 ## Getting started
 
-Before you begin, make sure you've already [installed and configured the Agent][5].
+Before you begin, make sure you've already [installed and configure the Agent][5].
 
 ### Activate Go integrations to create spans
 
